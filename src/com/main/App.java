@@ -1,9 +1,9 @@
 package com.main;
 
-import java.io.Console;
+import java.io.IOException;
 
 public class App {
-	public static void main(String[] args) {
-		System.out.println("<<< U盘同步工具   >>>");
+	public static void main(String[] args) throws IOException {
+		System.out.println("\t\t****** U盘同步工具   *******\n\t\t****** 作者：cg   *******\n");
 	}
 }
